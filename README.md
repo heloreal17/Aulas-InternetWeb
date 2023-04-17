@@ -18,6 +18,8 @@ npm i
 npm run dev
 ~~~
 <p>**O projeto será aberto no Navegador escolhido e a edição pode ser efetuada**</p>
----
+
+<br>
+
 ## Aulas:
 - 17/04: Criação de strings, props, alteração de cores através de um botão
