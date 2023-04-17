@@ -17,7 +17,7 @@ npm i
 ~~~comand
 npm run dev
 ~~~
-<p>**O projeto será aberto no Navegador escolhido e a edição pode ser efetuada**</p>
+**O projeto será aberto no Navegador escolhido e a edição pode ser efetuada**
 
 <br>
 
