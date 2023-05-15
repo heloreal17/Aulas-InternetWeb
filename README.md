@@ -22,4 +22,5 @@ npm run dev
 <br>
 
 ## Aulas:
-- 17/04: Criação de strings, props, alteração de cores através de um botão
+- 17/04: Criação de strings, props, alteração de cores através de um botão.
+- 15/05: Criação de strings, props, e lista de produtos figurativos.
